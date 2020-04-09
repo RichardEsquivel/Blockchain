@@ -35,7 +35,7 @@ class Blockchain(object):
         }
 
         # Reset the current list of transactions
-        # Append the chain to the block
+        # Append the block to the chain
         # Return the new block
         pass
 
